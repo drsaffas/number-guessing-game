@@ -11,15 +11,15 @@ function guessNumber(x, y) {
     if (number == random) {
         x++;
         y++;
-        var result = prompt("Do you want to continue to the next level?");
+        var result = prompt("Do you want to continue to the next level? Please type yes to continue!");
         if (result == "yes") {
         guessNumber(x, y);
 }
         else {
-            alert("Thanks for playing this game!");
+            alert("Thanks for playing number guessing game by Dr. Saffas!");
         }
     }
 }
 
-alert("You're welcome to my guessing number game. Please press ok to start!");
+alert("You're welcome to number guessing game. Written by Dr. Saffas! Please press OK to start!");
 guessNumber(newLevel, progress);

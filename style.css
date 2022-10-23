@@ -38,7 +38,7 @@ ul {
         border-top-left-radius: 20px;
 }
 
-#title {
+.title {
     color: brown;
     text-align: center;
     border-radius: 20px;
