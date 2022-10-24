@@ -1,7 +1,7 @@
 Number Guessing Game
 
 
-This is a game that starts from level to infinity untill the time the player get tired and stop it.
+This is a game that starts from level 1 to infinity untill the time the player get tired and stop it.
 
 How to play it?
 
